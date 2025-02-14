@@ -1,0 +1,12 @@
+{
+    "ModTitle": "No Splah Death Video",
+    "ModVersion": "1.0",
+    "ModAuthor": "themrleon",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Disable splash and death videos",
+    "GUID": "45b285d7-302f-4df8-a84b-bc969d9cc0d0",
+    "Files": [
+        "Assets/Game/Mods/NoSplashDeathVideo/NoSplashDeathVideo.cs",
+        "Assets/Game/Mods/NoSplashDeathVideo/NoSplashDeathVideo.dfmod.json"
+    ]
+}
